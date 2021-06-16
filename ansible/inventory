@@ -1,0 +1,4 @@
+[webservers]
+192.168.1.110
+[all:vars]
+ansible_ssh_pass=123.com
